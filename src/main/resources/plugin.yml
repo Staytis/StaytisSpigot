@@ -1,0 +1,9 @@
+name: StaytisSpigot
+version: '${project.version}'
+main: st.staytis.staytisspigot.StaytisSpigot
+authors: [ staytis ]
+api-version: 1.17
+commands:
+  sound:
+
+
